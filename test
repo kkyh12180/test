@@ -4,3 +4,5 @@ test merge and rebase
 merge: 1st modified
 merge: 2nd modified
 merge: 3rd modified
+
+rebase: 1st modified
